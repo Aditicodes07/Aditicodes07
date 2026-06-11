@@ -1,14 +1,24 @@
-Hi 👋, I'm Aditi Sadavarte
-A passionate Data Analyst from India 📊
+<h1 align="center">Hi 👋, I'm Aditi Sadavarte</h1>
+<h3 align="center">Passionate Data Analyst | Power BI Enthusiast | Aspiring Business Intelligence Professional 📊</h3>
 
-📧 Email Me 👉 aditi.sadavarte04@gmail.com for collaboration, projects, or anything else. 😊
+<p align="center">
+Turning raw data into meaningful insights through Data Analytics, Visualization, and Business Intelligence.
+</p>
 
-🔭 I'm currently working on: Data Analysis and Visualization Projects
-🌱 I'm currently learning: Power BI, Tableau, SQL, Python, and Advanced Analytics
-👯 I'm looking to collaborate on: Data Analytics and Business Intelligence Projects
-🤔 I'm looking for help with: Building real-world analytics dashboards and machine learning projects
-💬 Ask me about: Data Analysis, Tableau, Power BI, SQL, Excel, and Python
-📫 How to reach me: aditi.sadavarte04@gmail.com
-😄 Pronouns: She/Her
-⚡ Fun fact: I love turning raw data into meaningful insights! 📈✨
+---
+
+## 👩‍💻 About Me
+
+- 🎓 Computer Engineering Student
+- 📊 Passionate Data Analyst from India
+- 🌱 Currently learning **Power BI, Tableau, SQL, Python, and Advanced Analytics**
+- 🔭 Working on **Data Analysis and Visualization Projects**
+- 👯 Looking to collaborate on **Data Analytics & Business Intelligence Projects**
+- 🤔 Looking for help with **Real-world Analytics Dashboards & Machine Learning Projects**
+- 💬 Ask me about **Data Analysis, Power BI, Tableau, SQL, Excel, Python**
+- 📫 Reach me at **aditi.sadavarte04@gmail.com**
+- 😄 Pronouns: **She/Her**
+- ⚡ Fun Fact: **I love turning raw data into meaningful insights! 📈✨**
+
+---
 
